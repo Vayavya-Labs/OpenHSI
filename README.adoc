@@ -1,0 +1,26 @@
+== Introduction
+
+This repository demonstrates the power of OpenHSI(TM) offerings by
+Vayavya Labs. As part of software driven verification & validation strategy
+(for SoC) test realization is an important activity. To run system level test
+cases on Bare Metal platform once needs a good support in terms of device
+drivers and middle-ware (stack).
+
+== References
+
+   1. Open HSI website: https://www.openhsi.com/
+
+== License
+
+Released under BSD license - check LICENSE for full text.
+
+== Contents
+
+Currently, the following devices are supported:
+
+	* UFS host - check ufs/ directory
+	* PCIe - work in progress
+	* Ethernet - work in progress
+
+
+
