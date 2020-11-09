@@ -19,7 +19,7 @@ Released under BSD license - check LICENSE for full text.
 Currently, the following devices are supported:
 
 	* UFS host - check ufs/ directory
-	* PCIe - work in progress
+	* PCIe - check pcie/ directory
 	* Ethernet - work in progress
 
 
